@@ -1,0 +1,24 @@
+@import 
+  'https://fonts.googleapis.com/css?family=Shadows+Into+Light';
+
+body{
+  font-family:Shadows Into Light;
+  text-align: center;
+  color:#ccff66;
+background-image: url('http://wallfon.com/walls/space/the-asteroid-belt.jpg');
+}
+
+h1{
+  font-size:120px;
+}
+
+#playlink{
+  font-size: 1000px;
+  color: #ccff66;
+  text-decoration: none;
+  
+}
+
+.name{
+  color: #ccff66;  
+}
